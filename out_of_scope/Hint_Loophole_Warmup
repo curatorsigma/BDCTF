@@ -1,0 +1,3 @@
+Try finding a function that can read a file with 'Flag' in its name and call it.
+Setattr works, even if = is not allowed.
+Try overriding __str__ with the function you want and printing the right object (you can create your own Classes)

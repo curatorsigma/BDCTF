@@ -1,0 +1,3 @@
+What could be weaknesses of random generations? CSRNG vs PRNG.
+The name is not *random*. Try to attack the weak seeding used.
+Search for duplicates in the expected Tokens and try to predict the next values from them (once seeded, a PRNG is completely deterministic.)

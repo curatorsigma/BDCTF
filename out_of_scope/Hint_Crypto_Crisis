@@ -1,0 +1,3 @@
+Look into the finite field GF(2) and linearly independent vectors as well as bitwise XOR (for the ints resulting from the hash)
+You can add Comments to change the hash and leave the file contents intact. Try '#i' for i an int.
+Find such Comments that give you some of the bits for the final XOR-result and add them accordingly.

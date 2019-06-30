@@ -1,0 +1,3 @@
+Try finding patterns in the input depending on the output.
+Bruteforcing is an option if you make the searchspace small enough with the patterns from 1.
+Look for: if error1 is false, then what is happening with input1 and so forth. This Way, find restraints for inputs that could work and bruteforce the rest.
