@@ -1,0 +1,3 @@
+class C: pass
+setattr(C, '__str__', winner)
+print(C())
